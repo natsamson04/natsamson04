@@ -1,5 +1,4 @@
-Hi, I’m Natnael Samson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"> Hi, I’m Natnael Samson
 - 👀 I study cybersecurity. I enjoy **breaking** my network
 - 🌱 Extracurricular: cybersecurity club (https://discord.gg/Heq9vAmCqG)
 - 📫 How to reach me natsamson04@gmail.com or https://www.linkedin.com/in/nsamson04/
